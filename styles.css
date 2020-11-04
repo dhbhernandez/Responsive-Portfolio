@@ -1,0 +1,33 @@
+body {
+    background-image: url("Images/Portafolio\ background\ 2.jpg");
+}
+
+p { 
+    color: ghostwhite;
+    position: static;
+    font-size: 7mm;
+
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.4s;
+    font-family: -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+
+
+
+/* Navbar section */
