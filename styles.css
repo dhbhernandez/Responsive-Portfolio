@@ -10,6 +10,21 @@ p {
 
 }
 
+p2 {
+color: ghostwhite;
+    position: static;
+    font-size: 7mm;
+}
+
+.linkedin {
+color: brown;
+
+}
+
+.linkedin:hover {
+    color: coral;
+}
+
 
 *{
     margin: 0;
