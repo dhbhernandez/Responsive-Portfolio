@@ -9,6 +9,7 @@ Creating a Responsive Portfolio
 	-create the folder.
 	-adding files.
 	-connecting files.
+	
 ## 2.Navbar.
 	-links and a name.
 
