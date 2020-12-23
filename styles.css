@@ -25,6 +25,11 @@ color: brown;
     color: coral;
 }
 
+.contact_me{
+    color: aliceblue;
+    align-self: center;
+}
+
 
 *{
     margin: 0;
